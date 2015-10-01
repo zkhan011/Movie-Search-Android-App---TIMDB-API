@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My MovieSearch</string>
+    <string name="movieSearchButtonText">Search</string>
+    <string name="movieEditTextHint">Enter Movie Title</string>
+    <string name="contentImageView">poster</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="movies">Movies</string>
+    <string name="people">People</string>
+</resources>
